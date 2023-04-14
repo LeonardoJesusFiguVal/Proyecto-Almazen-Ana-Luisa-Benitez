@@ -8,7 +8,7 @@ The plan for this project is that it will result in an application that can be d
 
 ## Usage
 
-[Documentation](https://github.com/LeonardoJesusFiguVal/Proyecto-Almazen-Ana-Luisa-Benitez/blob/master/dist/javadoc/proyecto/almacen/ana/luisa/benitez/package-summary.html)
+[Documentation](https://leonardojesusfiguval.github.io/Proyecto-Almazen-Ana-Luisa-Benitez/dist/javadoc/proyecto/almacen/ana/luisa/benitez/package-summary.html)
 
 ## Contributing
 
