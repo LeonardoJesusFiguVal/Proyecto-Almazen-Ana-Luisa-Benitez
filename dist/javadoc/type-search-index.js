@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"proyecto.almacen.ana.luisa.benitez","l":"ProyectoAlmacenAnaLuisaBenitez"},{"p":"proyecto.almacen.ana.luisa.benitez","l":"Record_Log"},{"p":"proyecto.almacen.ana.luisa.benitez","l":"Record_Passage"}];updateSearchResults();
