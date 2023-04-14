@@ -8,7 +8,7 @@ El plan de este proyecto es que resulte en una applicacion descargable desde la 
 
 ## Usage
 
-[Documentación](https://google.com)
+[Documentación](https://github.com/LeonardoJesusFiguVal/Proyecto-Almazen-Ana-Luisa-Benitez/blob/master/dist/javadoc/proyecto/almacen/ana/luisa/benitez/package-summary.html)
 
 ## Contributing
 
